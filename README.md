@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViniciusCavalcante2000 (Vinícius do Nascimento Cavalcante)
 - 👀 I’m interested in become a developer
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning Python, JavaScript, Portugol and Flowalgorithm
 - 💞️ I’m looking to collaborate on simple projects where a can pratice and show my skills 
 - 📫 How to reach me viniciuscavalcanterj@gmail.com and linkedin.com/in/vinícius-cavalcante-3221301a6
 
